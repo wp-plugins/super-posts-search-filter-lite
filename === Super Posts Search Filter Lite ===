@@ -39,4 +39,5 @@ Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/)
 1. Unzip 'super-posts-search-filter-lite.zip' and place the folder inside `/wp-content/plugins/` directory or simply upload the zip file from the WordPress backend
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Place `<?php echo do_shortcode('[vkssfl]'); ?>` in your templates or place `[vkssfl]` in a text widget 
+1. You can find the plugin under Settings > Super Posts Search Filter Lite
 
