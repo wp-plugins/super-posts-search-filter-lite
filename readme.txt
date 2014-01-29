@@ -21,7 +21,7 @@ Category based post filter that allows you to search and filter your posts based
 
 Check out the demo here: [DEMO](http://jultranet.com/wp/ssf-lite/) and the video presentation here: [VIDEO PRESENTATION](http://www.youtube.com/watch?v=ObiZUgm3nLk&feature=youtu.be)
 
-If you require more filtering options, there is also the **Super Posts Search Filter Pro** plugin.
+If you require more filtering options, such as taxonomy filtering and / or filtering within a number range, there is also the **Super Posts Search Filter Pro** plugin.
 
 With Super Search Filter Pro you can filter based on:
 
@@ -29,7 +29,7 @@ With Super Search Filter Pro you can filter based on:
 1. taxonomies
 1. custom meta boxes (such as prices, for example "from" and "to")
 
-Many options available to tweak it to your own needs.
+Many options available to tweak it to your own needs.  
 
 It also works with both regular posts **AND** custom post types.
 
