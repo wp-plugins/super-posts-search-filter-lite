@@ -27,7 +27,7 @@ With Super Search Filter Pro you can filter based on:
 
 1. categories
 1. taxonomies
-1. custom meta boxes (such as prices, for example "from" and "to")
+1. custom meta boxes (for filtering within a number range, such as prices, for example "from" and "to")
 
 Many options available to tweak it to your own needs.  
 
