@@ -29,7 +29,7 @@ With Super Search Filter Pro you can filter based on:
 1. taxonomies
 1. custom meta boxes (such as prices, for example "from" and "to")
 
-Many options available to tweak it to your own needs.
+Many options available to tweak it to your own needs!
 
 It also works with both regular posts **AND** custom post types.
 
