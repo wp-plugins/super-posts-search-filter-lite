@@ -3,7 +3,7 @@ Contributors: vk011
 Tags: posts, filter, search, category
 Requires at least: 3.0.1
 Tested up to: 3.8.1
-Stable tag: 1.5.0
+Stable tag: 1.6.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,7 +31,7 @@ With Super Search Filter Pro you can filter based on:
 
 Many options available to tweak it to your own needs.  
 
-It also works with both regular posts **AND** custom post types.
+It also works with both regular posts **AND** custom post types!
 
 Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/) , demo here: [DEMO](http://jultranet.com/wp/ssf-pro/) and the video presentation here: [VIDEO PRESENTATION](http://www.youtube.com/watch?v=tymKJEx2vBA&feature=youtu.be)
 
