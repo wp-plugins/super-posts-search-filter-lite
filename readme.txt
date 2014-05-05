@@ -33,7 +33,7 @@ Many options available to tweak it to your own needs.
 
 It also works with both regular posts **AND** custom post types!
 
-Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/) , demo here: [DEMO](http://jultranet.com/wp/ssf-pro/) and the video presentation here: [VIDEO PRESENTATION](http://www.youtube.com/watch?v=O3v6rVJjDF0)
+Check out the the full description here: [DESCRIPTION](http://jultranet.com/wp/) , demo here: [DEMO](http://jultranet.com/wp/ssf-pro/) and the video presentation here: [VIDEO PRESENTATION](https://www.youtube.com/watch?v=vzelJTcx1rk&feature=youtu.be)
 
 == Installation ==
 
