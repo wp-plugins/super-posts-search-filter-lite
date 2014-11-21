@@ -3,7 +3,7 @@ Contributors: vk011
 Tags: posts, filter, search, category
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.6.0
+Stable tag: 1.6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -20,6 +20,8 @@ Category based post filter that allows you to search and filter your posts based
 1. Works natively with your theme's search.php page to display the results
 
 Check out the demo here: [DEMO](http://jultranet.com/wp/ssf-lite/) and the video presentation here: [VIDEO PRESENTATION](http://www.youtube.com/watch?v=ObiZUgm3nLk&feature=youtu.be)
+
+<h4>PRO Version</h4>
 
 If you require more filtering options, such as taxonomy filtering and / or filtering within a number range, there is also the **Super Posts Search Filter Pro** plugin.
 
