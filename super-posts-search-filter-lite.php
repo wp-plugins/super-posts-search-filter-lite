@@ -5,7 +5,7 @@ Plugin Name: Super Posts Search Filter Lite
 Plugin URI: http://jultranet.com/wp/
 Description: Filter posts based on categories
 Author: Vojislav Kovacevic
-Version: 1.0
+Version: 1.7.0
 Author URI: http://jultranet.com/wp/
 */
 
@@ -86,6 +86,18 @@ function vkssfl_config_page() {
 	
 	?>
 
+	<style>
+	div.pro {
+	  background: none repeat scroll 0 0 white;
+	  padding: 10px;
+	  position: absolute;
+	  right: 0;
+	  top: 0;
+	  width: 470px;
+	}
+
+	</style>
+
 	<div class="wrap">
 		<h2>Super Search Filter LITE options</h2>
 
@@ -96,7 +108,10 @@ function vkssfl_config_page() {
 
 			<tr>
 				<td>
-					<p>For more filtering options (custom taxonomies, meta boxes and many more options) check out <br><b>Super Search Filter PRO<br></b> - the complete wordpress posts and custom posts filter -> <a href="http://jultranet.com/wp/" target="_blank">click here</a></p>
+					<div class="pro">
+						<p>For more filtering options (custom taxonomies, meta boxes and many more options) check out <br><b>Super Search Search Filter PRO<br></b> - the complete wordpress posts and custom posts filter -><br>
+						 <a href="http://jultranet.com/wp/" target="_blank">MORE INFO</a> | <a href="http://jultranet.com/wp/ssf-pro/" target="_blank">DEMO</a> | <a href="https://www.youtube.com/watch?v=vzelJTcx1rk" target="_blank">VIDEO PRESENTATION</a></p>
+					</div>
 				</td>
 			</tr>
 
