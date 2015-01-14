@@ -1,6 +1,6 @@
 === Super Posts Search Filter Lite ===
 Contributors: vk011
-Tags: posts, filter, search, category
+Tags: posts, filter, search, category, taxonomy, term, advanced search
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.7.0
